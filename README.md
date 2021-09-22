@@ -49,3 +49,6 @@
   - planning to immigrate to Canada/United States
   - I speak English and Portuguese
   - Knowledge in Cloud Banking, ERP, Marketplace and ecommerce
+  - Professional Experience with Languages Node.js. and go Lang.
+  - Professional experience with AWS, serverless, typescript, express.js, docker, dynamoDB, postgresql, mysql, mongodb, redis, html, css, SQS, SNS and elasticSearch.
+  - Knowledge with flutter, reactJS, reactNative, C, C++, C#, angular, python, unity3D and unreal engine 4.
