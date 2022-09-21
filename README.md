@@ -38,8 +38,8 @@
   
  ##
 
-- 🔭  I’m currently working on Cloud Banking to Stefanini Brazil
-- 🌱  I’m currently learning React and Flutter
+- 🔭  I’m currently working on Dock - global service product
+- 🌱  I’m currently learning React and Flutter 
 - 👯  I’m looking to collaborate on banking, financial, e-commerce or marketplace projects
 - ⚡  About me:
   - passionate about games
