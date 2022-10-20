@@ -40,7 +40,7 @@
   
  ##
 
-- 🔭  I’m currently working on Dock - global service product
+- 🔭  I’m currently working on Dock - global service product as Senior Software Engineer
 - 🌱  I’m currently learning React and Flutter 
 - 👯  I’m looking to collaborate on banking, financial, e-commerce or marketplace projects
 - ⚡  About me:
