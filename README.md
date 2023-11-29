@@ -40,9 +40,9 @@
   
  ##
 
-- 🔭  I’m currently working on Dock - global service product as Senior Software Engineer
+- 🔭  I’m currently working on Traive as Senior Software Engineer
 - 🌱  I’m currently learning React and Flutter 
-- 👯  I’m looking to collaborate on banking, financial, e-commerce or marketplace projects
+- 👯  I’m looking to collaborate on banking, financial, e-commerce, marketplace or games projects
 - ⚡  About me:
   - passionate about games
   - passionate about software and games development
