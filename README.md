@@ -40,7 +40,7 @@
   
  ##
 
-- 🔭  I’m currently working on Traive as Senior Software Engineer
+- 🔭  I’m currently working on a Classified company early stage as Senior Software Engineer
 - 🌱  I’m currently learning React and Flutter 
 - 👯  I’m looking to collaborate on banking, financial, e-commerce, marketplace or games projects
 - ⚡  About me:
@@ -48,9 +48,8 @@
   - passionate about software and games development
   - crazy about music (guitar)
   - movie lover
-  - planning to immigrate to Canada/United States
   - I speak English and Portuguese
   - Knowledge in Cloud Banking, ERP, Marketplace and ecommerce
-  - Professional Experience with Languages Node.js. and go Lang.
-  - Professional experience with AWS, serverless, typescript, express.js, docker, dynamoDB, postgresql, mysql, mongodb, redis, html, css, SQS, SNS and elasticSearch.
-  - Knowledge with flutter, reactJS, reactNative, C, C++, C#, angular, python, unity3D and unreal engine 4.
+  - Professional Experience with Languages Node.js. and golang.
+  - Professional experience with AWS, serverless, typescript, express.js, docker, dynamoDB, postgresql, mysql, mongodb, redis, html, css, SQS, SNS, elasticSearch, terraform, kubernetes.
+  - Knowledge with flutter, reactJS, reactNative, C, C++, C#, angular, python, unity3D(c#) and unreal engine 4(c++).
